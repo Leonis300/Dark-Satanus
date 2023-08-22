@@ -468,7 +468,7 @@
 		"name": "python type",
 		"scope": "support.type.python",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
@@ -701,7 +701,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
@@ -1199,7 +1199,7 @@
 		"name": "python function support",
 		"scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
