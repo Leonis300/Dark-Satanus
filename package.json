@@ -3,6 +3,19 @@
   "displayName": "Dark-Satanus",
   "description": "deeper reds and blacks",
   "version": "0.0.1",
+  "publisher": "leonis300-dark-satanus",
+  "repository" : {
+  	"type": "git",
+  	"url": "https://github.com/Leonis300/Dark-Satanus"
+  },
+  "keywords": [
+  	"theme",
+  	"dark theme",
+  	"Leonis300",
+  	"Dark satanus",
+  	"dark satanus",
+  	"black and red"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
