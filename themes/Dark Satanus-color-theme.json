@@ -39,7 +39,7 @@
 		"name": "support.variable.magic.python",
 		"scope": "support.variable.magic.python",
 		"settings": {
-		  "foreground": "#d7d7d7"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
@@ -53,7 +53,7 @@
 		"name": "variable.parameter.function.language.special.self.python",
 		"scope": "variable.parameter.function.language.special.self.python",
 		"settings": {
-		  "foreground": "#d7d7d7"
+		  "foreground": "#db5050"
 		}
 	  },
 	  {
@@ -757,21 +757,21 @@
 		"name": "Integers",
 		"scope": "constant.numeric",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#de72ff"
 		}
 	  },
 	  {
 		"name": "Constants",
 		"scope": "punctuation.definition.constant",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#de72ff"
 		}
 	  },
 	  {
@@ -1943,7 +1943,10 @@
 	  "editorRuler.foreground": "#5a5a5a",
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#888888",
-	  "editorBracketHighlight.foreground1": "#b10000",
+	  "editorBracketHighlight.foreground1": "#db5050",
+	  "editorBracketHighlight.foreground2": "#ff5e00",
+	  "editorBracketHighlight.foreground3": "#88c5ff",
+	  "editorBracketHighlight.foreground4": "#a85cff",
 	  "editor.foldBackground": "#264f784d",
 	  "editorOverviewRuler.background": "#25252500",
 	  "editorOverviewRuler.border": "#7f7f7f4d",
