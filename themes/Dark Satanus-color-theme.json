@@ -740,6 +740,14 @@
 		}
 	  },
 	  {
+		"name": "Docstrings",
+		"scope": "string.quoted.docstring.multi.python",
+		"settings": {
+			"foreground": "#f19494",
+			"fontStyle": "italic"
+		}
+	  },
+	  {
 		"name": "Inherited Class",
 		"scope": "entity.other.inherited-class",
 		"settings": {
