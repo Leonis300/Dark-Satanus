@@ -7,7 +7,7 @@
 		"foreground": "#ffffff"
 	  },
 	  "variable.constant": {
-		"foreground": "#5477ff"
+		"foreground": "#FF5E00"
 	  },
 	  "variable.defaultLibrary": {
 		"foreground": "#d7d7d7"
@@ -44,7 +44,7 @@
 		"name": "haskell storage type",
 		"scope": "storage.type.haskell",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -114,7 +114,7 @@
 		"name": "regexp operator.quantifier",
 		"scope": "keyword.operator.quantifier.regexp",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -205,7 +205,7 @@
 		"name": "math property js/ts",
 		"scope": "support.constant.property.math",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -292,7 +292,7 @@
 		"name": "support.constant.property-value.scss",
 		"scope": "support.constant.property-value.scss,support.constant.property-value.css",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -306,7 +306,7 @@
 		"name": "css color standard name",
 		"scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -320,7 +320,7 @@
 		"name": "css attribute-name.id",
 		"scope": "support.constant.color.w3c-standard-color-name.css",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -355,7 +355,7 @@
 		"name": "js/ts json",
 		"scope": "support.constant.json",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -382,7 +382,7 @@
 		"name": "js/ts support.variable.property.process",
 		"scope": "support.variable.property.process",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -473,14 +473,14 @@
 		"name": "python parameter",
 		"scope": "variable.parameter.function.language.python",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
 		"name": "python type",
 		"scope": "support.type.python",
 		"settings": {
-		  "foreground": "#ff5e00"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
@@ -494,7 +494,7 @@
 		"name": "pyCs",
 		"scope": "variable.parameter.function.python",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
@@ -515,7 +515,7 @@
 		"name": "python placeholder reset to normal string",
 		"scope": "constant.character.format.placeholder.other.python",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#ff5e00"
 		}
 	  },
 	  {
@@ -671,7 +671,7 @@
 		"name": "Control Elements",
 		"scope": "control.elements, keyword.operator.less",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -734,7 +734,7 @@
 		"name": "Support type",
 		"scope": "support.constant.font-name",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
@@ -805,7 +805,7 @@
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
@@ -821,7 +821,7 @@
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
 		  "fontStyle": "normal",
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -856,7 +856,7 @@
 		"name": "Bold",
 		"scope": "markup.bold,todo.bold",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -912,7 +912,7 @@
 		"name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
 		"scope": "punctuation.definition.bold.markdown",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1163,14 +1163,14 @@
 		"name": "support php constants",
 		"scope": "support.constant.core.rust",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
 		"name": "support php constants",
 		"scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1261,14 +1261,14 @@
 		"name": "rgb value",
 		"scope": "inline-color-decoration rgb-value",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
 		"name": "rgb value less",
 		"scope": "less rgb-value",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1315,7 +1315,7 @@
 	  {
 		"scope": "token.warn-token",
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1483,7 +1483,7 @@
 		  "support.constant.elm"
 		],
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1753,7 +1753,7 @@
 		  "wikiword.xi"
 		],
 		"settings": {
-		  "foreground": "#5477ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
