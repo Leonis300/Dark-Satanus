@@ -13,6 +13,18 @@
 		"foreground": "#d7d7d7"
 	  }
 	},
+	"editor.semanticTokenColorCustomizations": {
+		"rules": {
+		  "*.typeHint": {
+			"foreground": "#7f848e",
+			"fontStyle": "italic"
+		  },
+		  "class.typeHint.builtin": {
+			"foreground": "#7f848e",
+			"fontStyle": "italic"
+		  }
+		}
+	  },
 	"tokenColors": [
 	  {
 		"name": "unison punctuation",
@@ -1850,7 +1862,8 @@
 		"settings": {
 		  "fontStyle": "italic"
 		}
-	  }
+	  },
+	  
 	],
 	"colors": {
 	  "foreground": "#cccccc",
