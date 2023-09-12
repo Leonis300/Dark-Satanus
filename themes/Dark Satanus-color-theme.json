@@ -784,14 +784,14 @@
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#de72ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
 		"name": "Constants",
 		"scope": "punctuation.definition.constant",
 		"settings": {
-		  "foreground": "#de72ff"
+		  "foreground": "#FF5E00"
 		}
 	  },
 	  {
@@ -1965,7 +1965,7 @@
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#888888",
 	  "editorBracketHighlight.foreground1": "#db5050",
-	  "editorBracketHighlight.foreground2": "#ff6f1c",
+	  "editorBracketHighlight.foreground2": "#ff7700",
 	  "editorBracketHighlight.foreground3": "#ffb300",
 	  "editorBracketHighlight.foreground4": "#a85cff",
 	  "editor.foldBackground": "#264f784d",
