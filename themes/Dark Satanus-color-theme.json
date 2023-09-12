@@ -777,7 +777,7 @@
 		"name": "Integers",
 		"scope": "constant.numeric",
 		"settings": {
-		  "foreground": "#ff5e00"
+		  "foreground": "#ff3939"
 		}
 	  },
 	  {
@@ -1965,8 +1965,8 @@
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#888888",
 	  "editorBracketHighlight.foreground1": "#db5050",
-	  "editorBracketHighlight.foreground2": "#ff5e00",
-	  "editorBracketHighlight.foreground3": "#88c5ff",
+	  "editorBracketHighlight.foreground2": "#ff6f1c",
+	  "editorBracketHighlight.foreground3": "#ffb300",
 	  "editorBracketHighlight.foreground4": "#a85cff",
 	  "editor.foldBackground": "#264f784d",
 	  "editorOverviewRuler.background": "#25252500",
@@ -2105,7 +2105,7 @@
 	  "minimapGutter.addedBackground": "#587c0c",
 	  "minimapGutter.modifiedBackground": "#0c7d9d",
 	  "minimapGutter.deletedBackground": "#94151b",
-	  "minimap.findMatchHighlight": "#383838",
+	  "minimap.findMatchHighlight": "#595959",
 	  "minimap.selectionHighlight": "#5a3a3a",
 	  "minimap.errorHighlight": "#ff5400",
 	  "minimap.warningHighlight": "#cca700",
