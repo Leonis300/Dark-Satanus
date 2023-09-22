@@ -713,7 +713,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#ff5e00"
+		  "foreground": "#db5050"
 		}
 	  },
 	  {
@@ -784,14 +784,14 @@
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#FF5E00"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
 		"name": "Constants",
 		"scope": "punctuation.definition.constant",
 		"settings": {
-		  "foreground": "#FF5E00"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
