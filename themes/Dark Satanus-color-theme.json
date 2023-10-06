@@ -777,14 +777,14 @@
 		"name": "Integers",
 		"scope": "constant.numeric",
 		"settings": {
-		  "foreground": "#ff3939"
+		  "foreground": "#e43333"
 		}
 	  },
 	  {
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#ff3939"
+		  "foreground": "#e43333"
 		}
 	  },
 	  {
@@ -1900,8 +1900,8 @@
 	  "statusBar.foreground": "#ffffff",
 	  "statusBar.background": "#940000",
 	  "statusBarItem.hoverBackground": "#ffffff1f",
-	  "statusBar.debuggingBackground": "#3335cc",
-	  "statusBar.debuggingForeground": "#ffffff",
+	  "statusBar.debuggingBackground": "#ff7700",
+	  "statusBar.debuggingForeground": "#000000",
 	  "statusBar.noFolderBackground": "#000000",
 	  "statusBar.noFolderForeground": "#ffffff",
 	  "statusBarItem.remoteBackground": "#303030",
@@ -1933,7 +1933,7 @@
 	  "inputOption.activeBorder": "#007acc00",
 	  "inputOption.activeForeground": "#ffffff",
 	  "input.placeholderForeground": "#a6a6a6",
-	  "textLink.foreground": "#6777ff",
+	  "textLink.foreground": "#ff5858",
 	  "editor.background": "#1b1b1b",
 	  "editor.foreground": "#d4d4d4",
 	  "editorLineNumber.foreground": "#858585",
@@ -1977,7 +1977,7 @@
 	  "editorWarning.foreground": "#cca700",
 	  "editorWarning.background": "#A9904000",
 	  "editorWarning.border": "#ffffff00",
-	  "editorInfo.foreground": "#75beff",
+	  "editorInfo.foreground": "#ff5858",
 	  "editorInfo.background": "#4490BF00",
 	  "editorInfo.border": "#4490BF00",
 	  "editorGutter.background": "#1e1e1e",
@@ -2014,13 +2014,13 @@
 	  "terminal.ansiBrightMagenta": "#d670d6",
 	  "terminal.ansiBrightRed": "#f14c4c",
 	  "terminal.ansiBrightWhite": "#e5e5e5",
-	  "terminal.ansiBrightYellow": "#ff3a3a",
+	  "terminal.ansiBrightYellow": "#f8df4e",
 	  "terminal.ansiCyan": "#11a8cd",
 	  "terminal.ansiGreen": "#0dbc79",
 	  "terminal.ansiMagenta": "#bc3fbc",
 	  "terminal.ansiRed": "#cd3131",
 	  "terminal.ansiWhite": "#e5e5e5",
-	  "terminal.ansiYellow": "#ff6161",
+	  "terminal.ansiYellow": "#ffb300",
 	  "breadcrumb.background": "#1e1e1e",
 	  "breadcrumb.foreground": "#cccccccc",
 	  "breadcrumb.focusForeground": "#e0e0e0",
