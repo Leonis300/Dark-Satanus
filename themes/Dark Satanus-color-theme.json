@@ -121,7 +121,7 @@
 		"name": "punctuation.definition",
 		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
 		"settings": {
-		  "foreground": "#f19494"
+		  "foreground": "#eb7272"
 		}
 	  },
 	  {
@@ -748,14 +748,14 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#f19494"
+		  "foreground": "#eb7272"
 		}
 	  },
 	  {
 		"name": "Docstrings",
 		"scope": "string.quoted.docstring.multi.python",
 		"settings": {
-			"foreground": "#f19494",
+			"foreground": "#eb7272",
 			"fontStyle": "italic"
 		}
 	  },
@@ -2076,8 +2076,8 @@
 	  "editorSuggestWidget.background": "#252526",
 	  "editorSuggestWidget.border": "#454545",
 	  "editorSuggestWidget.foreground": "#d4d4d4",
-	  "editorSuggestWidget.highlightForeground": "#0097fb",
-	  "editorSuggestWidget.selectedBackground": "#062f4a",
+	  "editorSuggestWidget.highlightForeground": "#ff3939",
+	  "editorSuggestWidget.selectedBackground": "#db5050",
 	  "editorHoverWidget.foreground": "#cccccc",
 	  "editorHoverWidget.background": "#252526",
 	  "editorHoverWidget.border": "#454545",
