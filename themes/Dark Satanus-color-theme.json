@@ -121,7 +121,7 @@
 		"name": "punctuation.definition",
 		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
 		"settings": {
-		  "foreground": "#eb7272"
+		  "foreground": "#f19494"
 		}
 	  },
 	  {
@@ -748,14 +748,14 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#eb7272"
+		  "foreground": "#f19494"
 		}
 	  },
 	  {
 		"name": "Docstrings",
 		"scope": "string.quoted.docstring.multi.python",
 		"settings": {
-			"foreground": "#eb7272",
+			"foreground": "#f19494",
 			"fontStyle": "italic"
 		}
 	  },
