@@ -1315,7 +1315,7 @@
 	  {
 		"scope": "token.warn-token",
 		"settings": {
-		  "foreground": "#ff3939"
+		  "foreground": "#ffb300"
 		}
 	  },
 	  {
@@ -2105,7 +2105,7 @@
 	  "minimapGutter.addedBackground": "#587c0c",
 	  "minimapGutter.modifiedBackground": "#0c7d9d",
 	  "minimapGutter.deletedBackground": "#94151b",
-	  "minimap.findMatchHighlight": "#595959",
+	  "minimap.findMatchHighlight": "#f05656d0",
 	  "minimap.selectionHighlight": "#5a3a3a",
 	  "minimap.errorHighlight": "#ff5400",
 	  "minimap.warningHighlight": "#cca700",
