@@ -1942,7 +1942,7 @@
 	  "editor.selectionBackground": "#5a3a3a",
 	  "editor.inactiveSelectionBackground": "#363636",
 	  "editorWhitespace.foreground": "#e3e4e229",
-	  "editor.selectionHighlightBackground": "#ffffff26",
+	  "editor.selectionHighlightBackground": "#fc020226",
 	  "editor.selectionHighlightBorder": "#363636",
 	  "editor.findMatchBackground": "#383838",
 	  "editor.findMatchBorder": "#383838",
