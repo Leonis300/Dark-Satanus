@@ -1,7 +1,7 @@
 {
   "name": "dark-satanus",
   "displayName": "Dark-Satanus",
-  "description": "deeper reds and blacks",
+  "description": "Minimalist, gothic, red and black theme.",
   "icon": "Logo.png",
   "version": "3.2.8",
   "publisher": "leonis300-dark-satanus",
@@ -15,7 +15,10 @@
     "Leonis300",
     "Dark satanus",
     "dark satanus",
-    "black and red"
+    "black and red",
+    "minimalist",
+    "gothic",
+    "minimal"
   ],
   "engines": {
     "vscode": "^1.81.0"
